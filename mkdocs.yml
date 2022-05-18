@@ -1,3 +1,6 @@
 site_name: Markdown Guide
 theme:
    name: material
+extra:
+   generator: false
+copyright: Copyright &copy; Praveen 2022.
