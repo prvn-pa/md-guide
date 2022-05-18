@@ -1,17 +1,8 @@
 # Introduction
 
-Markdown is one of the famous markup languages available today. Its wide spread usage make it to find applications not only limited to the software professionals but by many researchers and scientists. A well known scientific application is its usage in `R Markdown`. 
+Markdown is one of the famous [markup languages](https://en.wikipedia.org/wiki/Markup_language) widely used by developers, bloggers, messaging services etc. Due to its dead-easy syntax and possiblity to implement multiple plugins like [mermaid](https://mermaid-js.github.io/mermaid/), recently it gained much attention in the academic writing. Markdown syntax is not standarized universaly. So, depending upon the platform, the syntax may slightly vary - and could have additional features. One good example is capability of using latex symbols and math functions inside markdown supported by [R markdown](https://rmarkdown.rstudio.com/) and [Github flavoured markdown](https://github.github.com/gfm/) syntaxes. There were multitude of cheatsheets and tutorials available on markdown. But this guide focus more on their applicability towards scientific writing. The guide is configured as follows:
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+1. [Basic Syntax](basics.md)
+2. [Rendring output](render.md)
+3. [Standard tools](tools.md)
+4. [Other tweaks](tweaks.md)
