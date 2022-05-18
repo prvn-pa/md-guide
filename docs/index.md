@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Introduction
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Markdown is one of the famous markup languages available today. Its wide spread usage make it to find applications not only limited to the software professionals but by many researchers and scientists. A well known scientific application is its usage in `R Markdown`. 
 
 ## Commands
 
